@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm Niveditha Venkatesh 👋
+## Hi there, I'm **Niveditha Venkatesh** 👋
 
 **Developer | Prompt Engineer | OpenCV Enthusiast**
 
@@ -15,9 +15,9 @@ Comfortable with **computer vision using OpenCV**, and excited about learning, t
 ---
 
 ###  Currently Learning
-- Advanced full-stack development
-- AI-powered prompt engineering
-- Modern computer vision with OpenCV
+- **Advanced full-stack development**
+- **AI-powered prompt engineering**
+- **Modern computer vision with OpenCV**
 
 ---
 
