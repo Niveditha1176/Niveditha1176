@@ -3,6 +3,8 @@
 ## Hi there, I'm **Niveditha Venkatesh** 👋
 
 **Frontend Developer | AI & Prompt Engineering | OpenCV**
+
+
 Building user-friendly web interfaces and AI-powered tools using  **React**, **TypeScript**, **Python**, **LLMs**, and computer vision with **OpenCV**.
 Focused on creating practical applications in education, automation, and productivity.
 
