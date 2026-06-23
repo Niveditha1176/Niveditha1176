@@ -13,12 +13,6 @@ Focused on creating practical applications in education, automation, and product
 ### 📫 Reach Me @
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niveditha-v1176/)
 
----
-
-###  Currently Learning
-- **Advanced full-stack development**
-- **AI-powered prompt engineering**
-- **Modern computer vision with OpenCV**
 
 ---
 
