@@ -2,11 +2,20 @@
 
 ## Hi there, I'm **Niveditha Venkatesh** 👋
 
-**Developer | AI & Prompt Engineering | OpenCV**
+**ML Modelling  | AI & Prompt Engineering | OpenCV**
 
 
 Building user-friendly web interfaces and AI-powered tools using  **React**, **TypeScript**, **Python**, **LLMs**, and computer vision with **OpenCV**.
 Focused on creating practical applications in education, automation, and productivity.
+
+Research Focus: Trustworthy & Explainable AI (XAI), Tabular Foundation Models (TabPFN, TabICL), Uncertainty Quantification (Conformal Prediction), and Algorithmic Fairness.
+
+### Research & Publications
+
+- **Explainable Credit Decisions with Tabular Foundation Models: Conformal Deferral, Real-Time Shapley Explanations, and Explanation Stability**
+  - Designed an auditable three-tier credit triage framework combining TabPFN/TabICLv2 with distribution-free conformal prediction sets and a novel **Explanation Stability Gate**.
+  - Quantified the semantic volatility of Shapley feature attributions under in-context exemplar resampling across 10-fold paired benchmarks.
+  - [View Repository](https://github.com/Niveditha1176/Credit-gating-on-tabular-foundation-models-)
 
 ---
 
@@ -30,7 +39,7 @@ Focused on creating practical applications in education, automation, and product
 ---
 
 ### ✨ Fun fact
-I love blending creativity and logic—whether it’s designing an interface, optimizing a database query, or exploring computer vision.
+I love blending creativity and logic—whether it’s designing an interface, optimizing a ml model , or exploring computer vision.
 
 ---
 
